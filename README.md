@@ -108,6 +108,8 @@ I create content for beginners related to:
 
 > “Good code is its own best documentation.” – Steve McConnell
 
+---
+
 ### 🛠️ My Tech Stack
 
 > Tools I break, fix, automate & vibe with:
@@ -128,6 +130,7 @@ I create content for beginners related to:
 > “First solve the problem. Then, write the code.” – John Johnson
 
 ---
+
 <h2 align="center">📊 GitHub Activity Graph</h2>
 
 <p align="center">

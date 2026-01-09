@@ -42,12 +42,6 @@
 | <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/terraform/terraform-original.svg" title="Terraform" alt="Terraform" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" title="Jenkins" alt="Jenkins" width="55" height="55"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-original.svg" alt="Kubernetes" title="Kubernetes" width="55" height="55" /> | <img src="https://github.com/devicons/devicon/blob/master/icons/ansible/ansible-original.svg" title="Ansible" alt="Ansible" width="55" height="55"/> |<img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg" title="Ubuntu" alt="Ubuntu" width="55" height="55"/> |<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="55" height="55"/>| <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="Github" alt="Github" width="55" height="55"/>| <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="vscode" alt="vscode" width="55" height="55"/>| <img src="https://github.com/user-attachments/assets/a885e80a-964f-4e75-a4a6-27a063667ec7" alt="AWS" title="AWS" width="55" height="55" /> | 
 
 ---
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/d9970009-66d5-4da9-8325-71abe946faa5" alt="DevOps Banner" width="100%" />
-</p>
-
----
 ## 🌱 Contribution Graph
 
 <picture>
@@ -76,5 +70,57 @@ Stay updated with my thoughts, tips, and tech tales:
 - 🐳 [Understanding Docker Basic's](https://www.linkedin.com/posts/shipra-gupta-014761285_docker-devops-cloudcomputing-activity-7409737151221006337-3Wid?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEVYUNABsjZEMPRMI1ZdX4WF0fL7APVjldY)  
   _Modern applications don’t run without containers._
 
+---
+
+## 🎥 YouTube Section
+
+🚧 YouTube content coming soon — stay tuned!
 
 ---
+### 🚀 Featured Projects
+## 🔧 Currently Building...
+
+> 📚 I'm in my grind phase — upskilling in DevOps, scripting automation, and deploying dreams to the cloud.
+
+### 🌟 What I’m cooking behind the scenes:
+
+- 🐧 Mastering Linux and Shell Scripting
+- 🐳 Containerizing projects with Docker
+- ☁️ Playing with AWS (EC2, S3, RDS, IAM)
+- 🔧 CI/CD pipelines with Jenkins & GitHub Actions
+- 🔐 Learning user management, permissions & infra security
+- 🧠 Building projects soon... stay tuned!
+
+> “Good code is its own best documentation.” – Steve McConnell
+
+### 🛠️ My Tech Stack
+
+> Tools I break, fix, automate & vibe with:
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" />
+</p>
+
+---
+
+> “First solve the problem. Then, write the code.” – John Johnson
+
+---
+<h2 align="center">📊 GitHub Activity Graph</h2>
+
+<p align="center">
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shipra-SG&bg_color=1a1b27&color=38f1ff&line=00e0ff&point=ffffff&area=true&hide_border=true" alt="GitHub Activity Graph" />
+  </a>
+</p>
+
+🚀 [Portfolio – Projects & Case Studies](https://my-portfolio-r4o7.onrender.com)
+
+
+
+<p align="center">Made with ❤️ by Shipra Gupta</p>

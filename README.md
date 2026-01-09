@@ -1,18 +1,17 @@
 <!-- ⚡ Animated Futuristic Header (DevOps Cloud Theme) -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api
-?type=waving
-&height=220
-&text=Hey!%20I%27m%20Shipra%20Gupta!%20☁️
-&fontAlign=50
-&fontAlignY=40
-&color=0:1e3c72,50:2a5298,100:6a11cb
-&textBg=true
-&animation=fadeIn
-&fontColor=ffffff
-&desc=Aspiring%20DevOps%20%26%20Cloud%20Engineer%20|%20Automation%20Enthusiast%20⚙️
-&descAlign=50
-&descAlignY=65" />
+  <img src="https://readme-typing-svg.herokuapp.com
+?font=Fira+Code
+&size=20
+&pause=1000
+&color=38BDF8
+&center=true
+&vCenter=true
+&width=520
+&lines=DevOps+Engineer+in+the+Making...;
+Learning+AWS+Docker+Kubernetes;
+Automating+Everything+with+CI%2FCD;
+Building+Cloud+Native+Skills+☁️" />
 </p>
 
 ---

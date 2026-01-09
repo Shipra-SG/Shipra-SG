@@ -21,8 +21,10 @@
 
 ## 🌐 Connect with Me:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shipra-gupta-014761285/)
-[![Medium](https://img.shields.io/badge/Medium-E4405F?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@ShipraG)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shipra-gupta-014761285/)
+[![Medium](https://img.shields.io/badge/Medium-Follow-E4405F?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@ShipraG)
+[![Email](https://img.shields.io/badge/Email-gshipra2004@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gshipra2004@gmail.com)
+
 
 ---
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)

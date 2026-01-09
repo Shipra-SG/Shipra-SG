@@ -81,12 +81,12 @@ I create content for beginners related to:
 - Git, GitHub & Automation ⚙️
 - Linux, Docker, CI/CD 🚀
 
-<p align="Right">
+<p align="Left">
   <a href="www.youtube.com/@CloudWithShipra">
     <img src="https://img.shields.io/badge/YouTube-DevOps%20Channel-red?style=for-the-badge&logo=youtube"/>
   </a>
 
-<p align="Right">
+<p align="Left">
   <b>DevOps & Cloud Tutorials on YouTube</b>
 </p>
 

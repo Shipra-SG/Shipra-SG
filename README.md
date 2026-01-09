@@ -87,7 +87,7 @@ I create content for beginners related to:
   </a>
 
 <p align="Left">
-  <b>DevOps & Cloud Tutorials on YouTube</b>
+  <b>"DevOps & Cloud Tutorials on YouTube🎥"</b>
 </p>
 
 ---

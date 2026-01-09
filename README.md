@@ -26,14 +26,55 @@
 
 ---
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-<!-- GitHub Stats -->
-![Sahil's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shipra-SG&show_icons=true&theme=radical)
-
-<!-- GitHub Streak -->
-![GitHub Streak](https://streak-stats.demolab.com?user=Shipra-SG&theme=radical&border_radius=4.5)
 
 ## 📊 GitHub Stats
 
 ![Shipra's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shipra-SG&show_icons=true&theme=tokyonight)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Shipra-SG&theme=tokyonight)
+
+---
+
+## 🛠️ Tools & Technologies:
+
+| Linux | Terraform | Jenkins | Kubernets | Ansible | Ubuntu | Git | Docker | Git Hub | VS Code | AWS |
+|----------|----------|----------|----------|------|------|------|-------|------|------|-------|
+| <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/terraform/terraform-original.svg" title="Terraform" alt="Terraform" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" title="Jenkins" alt="Jenkins" width="55" height="55"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-original.svg" alt="Kubernetes" title="Kubernetes" width="55" height="55" /> | <img src="https://github.com/devicons/devicon/blob/master/icons/ansible/ansible-original.svg" title="Ansible" alt="Ansible" width="55" height="55"/> |<img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg" title="Ubuntu" alt="Ubuntu" width="55" height="55"/> |<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="55" height="55"/>| <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="Github" alt="Github" width="55" height="55"/>| <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="vscode" alt="vscode" width="55" height="55"/>| <img src="https://github.com/user-attachments/assets/a885e80a-964f-4e75-a4a6-27a063667ec7" alt="AWS" title="AWS" width="55" height="55" /> | 
+
+---
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/d9970009-66d5-4da9-8325-71abe946faa5" alt="DevOps Banner" width="100%" />
+</p>
+
+---
+## 🌱 Contribution Graph
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+</picture>
+
+![Visitor Count](https://komarev.com/ghpvc/?username=Shipra-SG7&color=green&style=flat-square)
+
+---
+
+## 📝 Latest Blog Posts
+
+Stay updated with my thoughts, tips, and tech tales:
+
+- ✨ [Kubernetes Architecture for Beginners](https://www.linkedin.com/posts/shipra-gupta-014761285_kubernetes-k8s-devops-activity-7398321968959307776-6amr?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEVYUNABsjZEMPRMI1ZdX4WF0fL7APVjldY)  
+  _Understand how kubernetes architecture works._
+
+- 🧠 [Deployed a Static Website using AWS S3 + CloudFront. ](https://www.linkedin.com/posts/shipra-gupta-014761285_aws-cloudcomputing-s3-activity-7400124288302870528-X5jV?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEVYUNABsjZEMPRMI1ZdX4WF0fL7APVjldY)  
+  _This project helped me understand how real-world applications are hosted and optimized on AWS in a production-like environment._
+
+- ☁️ [Hands-on with Terraform, AWS & IAM](https://www.linkedin.com/posts/shipra-gupta-014761285_terraform-aws-s3-activity-7401115332976963584-uSVo?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEVYUNABsjZEMPRMI1ZdX4WF0fL7APVjldY)  
+  _Real Automation in Action._
+
+- 🐳 [Understanding Docker Basic's](https://www.linkedin.com/posts/shipra-gupta-014761285_docker-devops-cloudcomputing-activity-7409737151221006337-3Wid?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEVYUNABsjZEMPRMI1ZdX4WF0fL7APVjldY)  
+  _Modern applications don’t run without containers._
+
+
+---

@@ -61,7 +61,7 @@
 Stay updated with my thoughts, tips, and tech tales:
 
 - ✨ [Kubernetes Architecture for Beginners](https://www.linkedin.com/posts/shipra-gupta-014761285_kubernetes-k8s-devops-activity-7398321968959307776-6amr?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEVYUNABsjZEMPRMI1ZdX4WF0fL7APVjldY)  
-  _Understand how kubernetes architecture works._
+  _Understand how Kubernetes architecture works._
 
 - 🧠 [Deployed a Static Website using AWS S3 + CloudFront. ](https://www.linkedin.com/posts/shipra-gupta-014761285_aws-cloudcomputing-s3-activity-7400124288302870528-X5jV?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEVYUNABsjZEMPRMI1ZdX4WF0fL7APVjldY)  
   _This project helped me understand how real-world applications are hosted and optimized on AWS in a production-like environment._
@@ -75,10 +75,12 @@ Stay updated with my thoughts, tips, and tech tales:
 ---
 
 ## 🎥 YouTube Section
-I create content for beginners related to:
+<p align="center">
+<a I create content for beginners related to:
 - DevOps & Cloud ☁️
 - Git, GitHub & Automation ⚙️
-- Linux, Docker, CI/CD 🚀
+- Linux, Docker, CI/CD 🚀> </a>
+</p>
 
 <p align="center">
   <a href="www.youtube.com/@CloudWithShipra">
@@ -88,7 +90,9 @@ I create content for beginners related to:
 <p align="center">
   <b>DevOps & Cloud Tutorials on YouTube</b>
 </p>
+
 ---
+
 ### 🚀 Featured Projects
 ## 🔧 Currently Building...
 

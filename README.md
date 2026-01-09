@@ -106,6 +106,8 @@ I create content for beginners related to:
 - 🔐 Learning user management, permissions & infra security
 - 🧠 Building projects soon... stay tuned!
 
+---
+
 > “Good code is its own best documentation.” – Steve McConnell
 
 ---

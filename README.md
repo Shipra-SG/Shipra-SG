@@ -75,19 +75,18 @@ Stay updated with my thoughts, tips, and tech tales:
 ---
 
 ## 🎥 YouTube Section
-<p align="center">
-<a I create content for beginners related to:
+
+I create content for beginners related to:
 - DevOps & Cloud ☁️
 - Git, GitHub & Automation ⚙️
-- Linux, Docker, CI/CD 🚀> </a>
-</p>
+- Linux, Docker, CI/CD 🚀
 
-<p align="center">
+<p align="Right">
   <a href="www.youtube.com/@CloudWithShipra">
     <img src="https://img.shields.io/badge/YouTube-DevOps%20Channel-red?style=for-the-badge&logo=youtube"/>
   </a>
 
-<p align="center">
+<p align="Right">
   <b>DevOps & Cloud Tutorials on YouTube</b>
 </p>
 

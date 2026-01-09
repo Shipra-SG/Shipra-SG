@@ -79,26 +79,15 @@ I create content for beginners related to:
 - DevOps & Cloud ☁️
 - Git, GitHub & Automation ⚙️
 - Linux, Docker, CI/CD 🚀
-  
-<p align="center">
-  <a href="www.youtube.com/@CloudWithShipra" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white"/>
-  </a>
-</p>
-
-<p align="center">
-  <b>DevOps & Cloud Tutorials on YouTube</b>
-</p>
 
 <p align="center">
   <a href="www.youtube.com/@CloudWithShipra">
     <img src="https://img.shields.io/badge/YouTube-DevOps%20Channel-red?style=for-the-badge&logo=youtube"/>
   </a>
-  <a href="https://github.com/Shipra-SG">
-    <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github"/>
-  </a>
-</p>
 
+<p align="center">
+  <b>DevOps & Cloud Tutorials on YouTube</b>
+</p>
 ---
 ### 🚀 Featured Projects
 ## 🔧 Currently Building...

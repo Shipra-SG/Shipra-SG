@@ -104,7 +104,6 @@ I create content for beginners related to:
 - ☁️ Playing with AWS (EC2, S3, RDS, IAM)
 - 🔧 CI/CD pipelines with Jenkins & GitHub Actions
 - 🔐 Learning user management, permissions & infra security
-- 🧠 Building projects soon... stay tuned!
 
 ---
 
